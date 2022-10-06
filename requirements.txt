@@ -1,0 +1,8 @@
+folium==0.12.1.post1
+geopandas==0.10.2
+matplotlib==3.5.2
+mysql_connector_repackaged==0.3.1
+pandas==1.4.2
+plotly==5.8.0
+streamlit==1.10.0
+streamlit_folium==0.6.13
